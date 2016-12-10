@@ -1,0 +1,8 @@
+{
+  "name": "dm-vocabulary-chart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:meisheep/dm-vocabulary-chart.git",
+  "author": "meisheep <immeisheep@gmail.com>",
+  "license": "MIT"
+}
